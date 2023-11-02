@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @iamparmarvk
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web Design
-- 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me iamparmarvk@gmail.com
+README
+👋 Hi, I’m @iamparmarvk.
 
-<!---
-iamparmarvk/iamparmarvk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Web Development and Software Engineering.
+🌱 I’m currently learning Web Design and other aspects of Web Development.
+💞️ I’m looking to collaborate on Web Development and Software Engineering projects.
+📫 How to reach me: You can contact me via email at iamparmarvk@gmail.com.
